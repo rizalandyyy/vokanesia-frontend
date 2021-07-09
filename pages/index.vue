@@ -20,6 +20,7 @@
         >
           GitHub
         </a>
+        Rizal Andy
       </div>
     </div>
   </div>
